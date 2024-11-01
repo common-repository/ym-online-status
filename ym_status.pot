@@ -1,0 +1,201 @@
+# Yahoo Messenger Online Status plugin for WordPress pot file.
+# Copyright (C) 2007 Huda Toriq
+# This file is distributed under the same license as the YM-Online-Status plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.3\n"
+"Report-Msgid-Bugs-To: hudatoriq@gmail.com\n"
+"POT-Creation-Date: 2007-10-19 13:47+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ym_status.php:59 ym_status.php:344 ym_status.php:345
+msgid "YM Status"
+msgstr ""
+
+#: ym_status.php:98
+msgid "You haven&#8217;t specified any Yahoo Messenger ID."
+msgstr ""
+
+#: ym_status.php:110
+msgid "Yahoo Messenger Online Status"
+msgstr ""
+
+#: ym_status.php:112 ym_status.php:279
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: ym_status.php:136
+msgid "Enabled"
+msgstr ""
+
+#: ym_status.php:137
+msgid "Disabled"
+msgstr ""
+
+#: ym_status.php:157
+msgid ""
+"YM-Online-Status should work fine in this server. It will use PHP&#8217;s "
+"<code>file_get_contents()</code> function to retrieve your status from "
+"Yahoo! server."
+msgstr ""
+
+#: ym_status.php:160
+msgid ""
+"YM-Online-Status should work fine in this server. It will use PHP&#8217;s "
+"cURL library functions to retrieve your status from Yahoo! server."
+msgstr ""
+
+#: ym_status.php:163
+msgid ""
+"Sorry. Your server does not support any methods which are needed by YM-"
+"Online-Status plugin to retrieve your status from Yahoo! server."
+msgstr ""
+
+#: ym_status.php:170
+msgid "Server Settings"
+msgstr ""
+
+#: ym_status.php:173
+msgid "allow_url_fopen"
+msgstr ""
+
+#: ym_status.php:178
+msgid "cURL Support"
+msgstr ""
+
+#: ym_status.php:186
+msgid "Plugin Generals"
+msgstr ""
+
+#: ym_status.php:189
+msgid "Yahoo Messenger ID(s)"
+msgstr ""
+
+#: ym_status.php:191
+msgid ""
+"Define the Yahoo! ID(s) of which online status will be displayed. Separate "
+"multiple values with spaces."
+msgstr ""
+
+#: ym_status.php:194
+msgid "Text"
+msgstr ""
+
+#: ym_status.php:196
+msgid ""
+"Specify the text value of title and alt attributes of the button image. It "
+"will show up when you hover the pointer on the button image and when the "
+"image has not loaded/fail to load"
+msgstr ""
+
+#: ym_status.php:199
+msgid "Status Button:"
+msgstr ""
+
+#: ym_status.php:201
+msgid "Name"
+msgstr ""
+
+#: ym_status.php:202
+msgid "Online"
+msgstr ""
+
+#: ym_status.php:203
+msgid "Offline"
+msgstr ""
+
+#: ym_status.php:231
+msgid "Single Button Options"
+msgstr ""
+
+#: ym_status.php:234
+msgid "Button wrapper tags :"
+msgstr ""
+
+#: ym_status.php:235
+msgid ""
+"For example: <strong><code>&lt;p&gt; and &lt;/p&gt;</code></strong> or "
+"<strong><code>&lt;div&gt; and &lt;/div&gt;</code></strong>"
+msgstr ""
+
+#: ym_status.php:240
+msgid "Button List Options"
+msgstr ""
+
+#: ym_status.php:243
+msgid ""
+"If you display multiple Yahoo! IDs as a button list instead of single "
+"button, the following settings will be used."
+msgstr ""
+
+#: ym_status.php:246
+msgid "Sort buttons by:"
+msgstr ""
+
+#: ym_status.php:263
+msgid "input order"
+msgstr ""
+
+#: ym_status.php:264
+msgid "Yahoo! id, ascending"
+msgstr ""
+
+#: ym_status.php:265
+msgid "Yahoo! id, descending"
+msgstr ""
+
+#: ym_status.php:270
+msgid "List wrapper tags:"
+msgstr ""
+
+#: ym_status.php:271 ym_status.php:275
+msgid "and"
+msgstr ""
+
+#: ym_status.php:271
+msgid ""
+"For example: <strong><code>&lt;div&gt; and &lt;/div&gt;</code></strong> or "
+"<strong><code>&lt;ul&gt; and &lt;/ul&gt;</code></strong>"
+msgstr ""
+
+#: ym_status.php:274
+msgid "Button wrapper tags:"
+msgstr ""
+
+#: ym_status.php:275
+msgid ""
+"For example: <strong><code>&lt;p&gt; and &lt;/p&gt;</code></strong> or "
+"<strong><code>&lt;li&gt; and &lt;/li&gt;</code></strong>"
+msgstr ""
+
+#: ym_status.php:336
+msgid "You have successfully updated your YM status plugin options."
+msgstr ""
+
+#: ym_status.php:338
+msgid "You have nothing to update"
+msgstr ""
+
+#: ym_status.php:371
+msgid "Title:"
+msgstr ""
+
+#: ym_status.php:372
+msgid "Widget mode:"
+msgstr ""
+
+#: ym_status.php:372
+msgid "Single"
+msgstr ""
+
+#: ym_status.php:372
+msgid "List"
+msgstr ""
